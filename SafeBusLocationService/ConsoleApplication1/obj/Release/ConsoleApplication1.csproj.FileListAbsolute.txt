@@ -1,0 +1,6 @@
+E:\MyProjects\SafeBus Webservice\SafeBusLocationService\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+E:\MyProjects\SafeBus Webservice\SafeBusLocationService\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+E:\MyProjects\SafeBus Webservice\SafeBusLocationService\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+E:\MyProjects\SafeBus Webservice\SafeBusLocationService\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\MyProjects\SafeBus Webservice\SafeBusLocationService\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+E:\MyProjects\SafeBus Webservice\SafeBusLocationService\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
